@@ -47,64 +47,20 @@ layout: null
         @font-face {
         font-display: block;
         font-family:"Avenir-LT-W01_35-Light1475496";
-        src:url("//static.parastorage.com/services/third-party/fonts/user-site-fonts/fonts/edefe737-dc78-4aa3-ad03-3c6f908330ed.eot?#iefix");
-        src:url("//static.parastorage.com/services/third-party/fonts/user-site-fonts/fonts/edefe737-dc78-4aa3-ad03-3c6f908330ed.eot?#iefix") format("eot"),url("//static.parastorage.com/services/third-party/fonts/user-site-fonts/fonts/0078f486-8e52-42c0-ad81-3c8d3d43f48e.woff2") format("woff2"),url("//static.parastorage.com/services/third-party/fonts/user-site-fonts/fonts/908c4810-64db-4b46-bb8e-823eb41f68c0.woff") format("woff"),url("//static.parastorage.com/services/third-party/fonts/user-site-fonts/fonts/4577388c-510f-4366-addb-8b663bcc762a.ttf") format("truetype"),url("//static.parastorage.com/services/third-party/fonts/user-site-fonts/fonts/b0268c31-e450-4159-bfea-e0d20e2b5c0c.svg#b0268c31-e450-4159-bfea-e0d20e2b5c0c") format("svg");
-        }
-        @font-face {
-        font-family: "Avenir-LT-W05_35-Light";
-        src: url("//static.parastorage.com/services/santa-resources/resources/viewer/user-site-fonts/fonts/Avenir_Family_Pack/v1/AvenirLTW05-35Light.woff2") format("woff2"),
-        url("//static.parastorage.com/services/santa-resources/resources/viewer/user-site-fonts/fonts/Avenir_Family_Pack/v1/AvenirLTW05-35Light.woff") format("woff");
-        }
-        @font-face {
-        font-display: block;
-        font-family: "DIN-Next-W01-Light";
-        src: url("//static.parastorage.com/services/third-party/fonts/user-site-fonts/fonts/3e0b2cd7-9657-438b-b4af-e04122e8f1f7.eot?#iefix");
-        src: url("//static.parastorage.com/services/third-party/fonts/user-site-fonts/fonts/3e0b2cd7-9657-438b-b4af-e04122e8f1f7.eot?#iefix") format("eot"),url("//static.parastorage.com/services/third-party/fonts/user-site-fonts/fonts/bc176270-17fa-4c78-a343-9fe52824e501.woff") format("woff"),url("//static.parastorage.com/services/third-party/fonts/user-site-fonts/fonts/3516f91d-ac48-42cd-acfe-1be691152cc4.ttf") format("truetype"),url("//static.parastorage.com/services/third-party/fonts/user-site-fonts/fonts/d1b1e866-a411-42ba-8f75-72bf28e23694.svg#d1b1e866-a411-42ba-8f75-72bf28e23694") format("svg");
-        }
-        @font-face {
-        font-display: block;
-        font-family: "DIN-Next-W02-Light";
-        src: url("//static.parastorage.com/services/third-party/fonts/user-site-fonts/fonts/48e5a0e1-2d56-46e5-8fc4-3d6d5c973cbf.eot?#iefix");
-        src: url("//static.parastorage.com/services/third-party/fonts/user-site-fonts/fonts/48e5a0e1-2d56-46e5-8fc4-3d6d5c973cbf.eot?#iefix") format("eot"),url("//static.parastorage.com/services/third-party/fonts/user-site-fonts/fonts/07d62b21-8d7a-4c36-be86-d32ab1089972.woff") format("woff"),url("//static.parastorage.com/services/third-party/fonts/user-site-fonts/fonts/c0050890-bbed-44b9-94df-2611d72dbb06.ttf") format("truetype"),url("//static.parastorage.com/services/third-party/fonts/user-site-fonts/fonts/9f774d17-c03a-418e-a375-34f3beecbc7a.svg#9f774d17-c03a-418e-a375-34f3beecbc7a") format("svg");
-        }
-        @font-face {
-        font-display: block;
-        font-family: "DIN-Next-W10-Light";
-        src: url("//static.parastorage.com/services/third-party/fonts/user-site-fonts/fonts/3d009cd7-c8fe-40c0-93da-74f4ea8c530b.eot?#iefix");
-        src: url("//static.parastorage.com/services/third-party/fonts/user-site-fonts/fonts/3d009cd7-c8fe-40c0-93da-74f4ea8c530b.eot?#iefix") format("eot"),url("//static.parastorage.com/services/third-party/fonts/user-site-fonts/fonts/a9e95a29-98a7-404a-90ee-1929ad09c696.woff") format("woff"),url("//static.parastorage.com/services/third-party/fonts/user-site-fonts/fonts/0a7663fd-eae8-4e50-a67a-225271f8cceb.ttf") format("truetype"),url("//static.parastorage.com/services/third-party/fonts/user-site-fonts/fonts/58ae9be9-5d95-44b6-8b6c-e6da6a46822c.svg#58ae9be9-5d95-44b6-8b6c-e6da6a46822c") format("svg");
-        }
-        @font-face {
-        font-display: block;
-        font-family:"Lulo-Clean-W01-One-Bold";
-        src:url("//static.parastorage.com/services/third-party/fonts/user-site-fonts/fonts/0163ac22-50a7-406e-aa64-c62ee6fbf3d7.eot?#iefix");
-        src:url("//static.parastorage.com/services/third-party/fonts/user-site-fonts/fonts/0163ac22-50a7-406e-aa64-c62ee6fbf3d7.eot?#iefix") format("eot"),url("//static.parastorage.com/services/third-party/fonts/user-site-fonts/fonts/aee74cb3-c913-4b54-9722-6001c92325f2.woff2") format("woff2"),url("//static.parastorage.com/services/third-party/fonts/user-site-fonts/fonts/80de9d5d-ab5f-40ce-911b-104e51e93d7c.woff") format("woff"),url("//static.parastorage.com/services/third-party/fonts/user-site-fonts/fonts/1b46b05b-cfdd-4d82-8c2f-5c6cfba1fe60.ttf") format("truetype"),url("//static.parastorage.com/services/third-party/fonts/user-site-fonts/fonts/be340f0b-a2d4-41df-acb1-4dc124330a88.svg#be340f0b-a2d4-41df-acb1-4dc124330a88") format("svg");
-        }
-        @font-face{
-        font-family:"Lulo-Clean-W05-One-Bold";
-        src: url("//static.parastorage.com/services/santa-resources/resources/viewer/user-site-fonts/fonts/Lulo_Clean/v1/LuloCleanW05-OneBold.woff2") format("woff2"),
-        url("//static.parastorage.com/services/santa-resources/resources/viewer/user-site-fonts/fonts/Lulo_Clean/v1/LuloCleanW05-OneBold.woff") format("woff");
+        src:url("/london_ruby/assets/fonts/edefe737-dc78-4aa3-ad03-3c6f908330ed.eot?#iefix");
+        src:url("/london_ruby/assets/fonts/edefe737-dc78-4aa3-ad03-3c6f908330ed.eot?#iefix") format("eot"),url("/london_ruby/assets/fonts/0078f486-8e52-42c0-ad81-3c8d3d43f48e.woff2") format("woff2"),url("/london_ruby/assets/fonts/908c4810-64db-4b46-bb8e-823eb41f68c0.woff") format("woff"),url("/london_ruby/assets/fonts/4577388c-510f-4366-addb-8b663bcc762a.ttf") format("truetype"),url("/london_ruby/assets/fonts/b0268c31-e450-4159-bfea-e0d20e2b5c0c.svg#b0268c31-e450-4159-bfea-e0d20e2b5c0c") format("svg");
         }
         @font-face {
         font-display: block;
         font-family:"Avenir-LT-W01_85-Heavy1475544";
-        src:url("//static.parastorage.com/services/third-party/fonts/user-site-fonts/fonts/6af9989e-235b-4c75-8c08-a83bdaef3f66.eot?#iefix");
-        src:url("//static.parastorage.com/services/third-party/fonts/user-site-fonts/fonts/6af9989e-235b-4c75-8c08-a83bdaef3f66.eot?#iefix") format("eot"),url("//static.parastorage.com/services/third-party/fonts/user-site-fonts/fonts/d513e15e-8f35-4129-ad05-481815e52625.woff2") format("woff2"),url("//static.parastorage.com/services/third-party/fonts/user-site-fonts/fonts/61bd362e-7162-46bd-b67e-28f366c4afbe.woff") format("woff"),url("//static.parastorage.com/services/third-party/fonts/user-site-fonts/fonts/ccd17c6b-e7ed-4b73-b0d2-76712a4ef46b.ttf") format("truetype"),url("//static.parastorage.com/services/third-party/fonts/user-site-fonts/fonts/20577853-40a7-4ada-a3fb-dd6e9392f401.svg#20577853-40a7-4ada-a3fb-dd6e9392f401") format("svg");
-        }
-        @font-face {
-        font-family: "Avenir-LT-W05_85-Heavy";
-        src: url("//static.parastorage.com/services/santa-resources/resources/viewer/user-site-fonts/fonts/Avenir_Family_Pack/v1/AvenirLTW05-85Heavy.woff2") format("woff2"),
-        url("//static.parastorage.com/services/santa-resources/resources/viewer/user-site-fonts/fonts/Avenir_Family_Pack/v1/AvenirLTW05-85Heavy.woff") format("woff");
+        src:url("/london_ruby/assets/fonts/6af9989e-235b-4c75-8c08-a83bdaef3f66.eot?#iefix");
+        src:url("/london_ruby/assets/fonts/6af9989e-235b-4c75-8c08-a83bdaef3f66.eot?#iefix") format("eot"),url("/london_ruby/assets/fonts/d513e15e-8f35-4129-ad05-481815e52625.woff2") format("woff2"),url("/london_ruby/assets/fonts/61bd362e-7162-46bd-b67e-28f366c4afbe.woff") format("woff"),url("/london_ruby/assets/fonts/ccd17c6b-e7ed-4b73-b0d2-76712a4ef46b.ttf") format("truetype"),url("/london_ruby/assets/fonts/20577853-40a7-4ada-a3fb-dd6e9392f401.svg#20577853-40a7-4ada-a3fb-dd6e9392f401") format("svg");
         }
         @font-face {
         font-display: block;
         font-family:"Futura-LT-W01-Light";
-        src:url("//static.parastorage.com/services/third-party/fonts/user-site-fonts/fonts/2b40e918-d269-4fd9-a572-19f5fec7cd7f.eot?#iefix");
-        src:url("//static.parastorage.com/services/third-party/fonts/user-site-fonts/fonts/2b40e918-d269-4fd9-a572-19f5fec7cd7f.eot?#iefix") format("eot"),url("//static.parastorage.com/services/third-party/fonts/user-site-fonts/fonts/26091050-06ef-4fd5-b199-21b27c0ed85e.woff2") format("woff2"),url("//static.parastorage.com/services/third-party/fonts/user-site-fonts/fonts/cca525a8-ad89-43ae-aced-bcb49fb271dc.woff") format("woff"),url("//static.parastorage.com/services/third-party/fonts/user-site-fonts/fonts/88cc7a39-1834-4468-936a-f3c25b5d81a1.ttf") format("truetype"),url("//static.parastorage.com/services/third-party/fonts/user-site-fonts/fonts/14d6bf5d-15f1-4794-b18e-c03fb9a5187e.svg#14d6bf5d-15f1-4794-b18e-c03fb9a5187e") format("svg");
-        }
-        @font-face {
-        font-family: "Futura-LT-W05-Light";
-        src: url("//static.parastorage.com/services/santa-resources/resources/viewer/user-site-fonts/fonts/Futura_Complete/v1/FuturaLTW05-LightCondensed.woff2") format("woff2"),
-        url("//static.parastorage.com/services/santa-resources/resources/viewer/user-site-fonts/fonts/Futura_Complete/v1/FuturaLTW05-LightCondensed.woff") format("woff");
+        src:url("/london_ruby/assets/fonts/2b40e918-d269-4fd9-a572-19f5fec7cd7f.eot?#iefix");
+        src:url("/london_ruby/assets/fonts/2b40e918-d269-4fd9-a572-19f5fec7cd7f.eot?#iefix") format("eot"),url("/london_ruby/assets/fonts/26091050-06ef-4fd5-b199-21b27c0ed85e.woff2") format("woff2"),url("/london_ruby/assets/fonts/cca525a8-ad89-43ae-aced-bcb49fb271dc.woff") format("woff"),url("/london_ruby/assets/fonts/88cc7a39-1834-4468-936a-f3c25b5d81a1.ttf") format("truetype"),url("/london_ruby/assets/fonts/14d6bf5d-15f1-4794-b18e-c03fb9a5187e.svg#14d6bf5d-15f1-4794-b18e-c03fb9a5187e") format("svg");
         }
         #comp-j6i3rhdg { --menuTotalBordersX:0px;--menuTotalBordersY:0px;--bgDrop:var(--color_18);--rd:0px;--shd:none;--fnt:var(--font_9);--pad:5px;--txt:255,255,255;--trans:color 0.4s ease 0s;--txth:var(--color_11);--txts:var(--color_23);--boxShadowToggleOn-shd:none;--alpha-txt:1;--alpha-bgDrop:1;--alpha-txth:1;--alpha-txts:1 }#SITE_PAGES { --transition-duration:0ms }#BACKGROUND_GROUP { --transition-duration:0ms }
       </style>
@@ -113,114 +69,28 @@ layout: null
         @font-face {
         font-display: block;
         font-family:"Futura-LT-W01-Book";
-        src:url("//static.parastorage.com/services/third-party/fonts/user-site-fonts/fonts/cf053eae-ba1f-44f3-940c-a34b68ccbbdf.eot?#iefix");
-        src:url("//static.parastorage.com/services/third-party/fonts/user-site-fonts/fonts/cf053eae-ba1f-44f3-940c-a34b68ccbbdf.eot?#iefix") format("eot"),url("//static.parastorage.com/services/third-party/fonts/user-site-fonts/fonts/8bf38806-3423-4080-b38f-d08542f7e4ac.woff2") format("woff2"),url("//static.parastorage.com/services/third-party/fonts/user-site-fonts/fonts/e2b9cbeb-fa8e-41cd-8a6a-46044b29ba52.woff") format("woff"),url("//static.parastorage.com/services/third-party/fonts/user-site-fonts/fonts/c2a69697-4f06-4764-abd4-625031a84e31.ttf") format("truetype"),url("//static.parastorage.com/services/third-party/fonts/user-site-fonts/fonts/dc423cc1-bf86-415c-bc7d-ad7dde416a34.svg#dc423cc1-bf86-415c-bc7d-ad7dde416a34") format("svg");
+        src:url("/london_ruby/assets/fonts/cf053eae-ba1f-44f3-940c-a34b68ccbbdf.eot?#iefix");
+        src:url("/london_ruby/assets/fonts/cf053eae-ba1f-44f3-940c-a34b68ccbbdf.eot?#iefix") format("eot"),url("/london_ruby/assets/fonts/8bf38806-3423-4080-b38f-d08542f7e4ac.woff2") format("woff2"),url("/london_ruby/assets/fonts/e2b9cbeb-fa8e-41cd-8a6a-46044b29ba52.woff") format("woff"),url("/london_ruby/assets/fonts/c2a69697-4f06-4764-abd4-625031a84e31.ttf") format("truetype"),url("/london_ruby/assets/fonts/dc423cc1-bf86-415c-bc7d-ad7dde416a34.svg#dc423cc1-bf86-415c-bc7d-ad7dde416a34") format("svg");
         }
         @font-face {
         font-display: block;
         font-family: "Oswald-ExtraLight";
-        src: url("//static.parastorage.com/tag-bundler/api/v1/fonts-cache/googlefont/woff2/s/oswald/v16/GwZ_PiN1Aind9Eyjp868E1tXRa8TVwTICgirnJhmVJw.woff2") format("woff2"),
-        url("//static.parastorage.com/tag-bundler/api/v1/fonts-cache/googlefont/woff/s/oswald/v16/GwZ_PiN1Aind9Eyjp868Ez8E0i7KZn-EPnyo3HZu7kw.woff") format("woff")
+        src: url("/london_ruby/assets/fonts/GwZ_PiN1Aind9Eyjp868E1tXRa8TVwTICgirnJhmVJw.woff2") format("woff2"),
+        url("/london_ruby/assets/fonts/GwZ_PiN1Aind9Eyjp868Ez8E0i7KZn-EPnyo3HZu7kw.woff") format("woff")
         }
         @font-face {
         font-display: block;
         font-family: "Oswald-ExtraLight";
         font-weight: 700;
-        src: url("//static.parastorage.com/tag-bundler/api/v1/fonts-cache/googlefont/woff2/s/oswald/v16/RqRF4AQrkUh3ft98NHH2mA.woff2") format("woff2"),
-        url("//static.parastorage.com/tag-bundler/api/v1/fonts-cache/googlefont/woff/s/oswald/v16/PyqsDANUgLi2UsdO-d4iZQ.woff") format("woff")
-        }
-        @font-face {
-        font-display: block;
-        font-family: 'Oswald';
-        font-style: normal;
-        font-weight: 400;
-        src: url("//static.parastorage.com/tag-bundler/api/v1/fonts-cache/googlefont/woff2/s/oswald/v29/TK3iWkUHHAIjg752FD8Gl-1PK62t.woff2") format('woff2');
-        unicode-range: U+0460-052F, U+1C80-1C88, U+20B4, U+2DE0-2DFF, U+A640-A69F, U+FE2E-FE2F;
-        }
-        @font-face {
-        font-display: block;
-        font-family: 'Oswald';
-        font-style: normal;
-        font-weight: 400;
-        src: url("//static.parastorage.com/tag-bundler/api/v1/fonts-cache/googlefont/woff2/s/oswald/v29/TK3iWkUHHAIjg752HT8Gl-1PK62t.woff2") format('woff2');
-        unicode-range: U+0400-045F, U+0490-0491, U+04B0-04B1, U+2116;
-        }
-        @font-face {
-        font-display: block;
-        font-family: 'Oswald';
-        font-style: normal;
-        font-weight: 400;
-        src: url("//static.parastorage.com/tag-bundler/api/v1/fonts-cache/googlefont/woff2/s/oswald/v29/TK3iWkUHHAIjg752Fj8Gl-1PK62t.woff2") format('woff2');
-        unicode-range: U+0102-0103, U+0110-0111, U+1EA0-1EF9, U+20AB;
-        }
-        @font-face {
-        font-display: block;
-        font-family: 'Oswald';
-        font-style: normal;
-        font-weight: 400;
-        src: url("//static.parastorage.com/tag-bundler/api/v1/fonts-cache/googlefont/woff2/s/oswald/v29/TK3iWkUHHAIjg752Fz8Gl-1PK62t.woff2") format('woff2');
-        unicode-range: U+0100-024F, U+0259, U+1E00-1EFF, U+2020, U+20A0-20AB, U+20AD-20CF, U+2113, U+2C60-2C7F, U+A720-A7FF;
-        }
-        @font-face {
-        font-display: block;
-        font-family: 'Oswald';
-        font-style: normal;
-        font-weight: 400;
-        src: url("//static.parastorage.com/tag-bundler/api/v1/fonts-cache/googlefont/woff2/s/oswald/v29/TK3iWkUHHAIjg752GT8Gl-1PKw.woff2") format('woff2');
-        unicode-range: U+0000-00FF, U+0131, U+0152-0153, U+02BB-02BC, U+02C6, U+02DA, U+02DC, U+2000-206F, U+2074, U+20AC, U+2122, U+2191, U+2193, U+2212, U+2215, U+FEFF, U+FFFD;
-        }
-        @font-face {
-        font-display: block;
-        font-family: 'Oswald';
-        font-style: normal;
-        font-weight: 700;
-        src: url("//static.parastorage.com/tag-bundler/api/v1/fonts-cache/googlefont/woff2/s/oswald/v29/TK3iWkUHHAIjg752FD8Gl-1PK62t.woff2") format('woff2');
-        unicode-range: U+0460-052F, U+1C80-1C88, U+20B4, U+2DE0-2DFF, U+A640-A69F, U+FE2E-FE2F;
-        }
-        @font-face {
-        font-display: block;
-        font-family: 'Oswald';
-        font-style: normal;
-        font-weight: 700;
-        src: url("//static.parastorage.com/tag-bundler/api/v1/fonts-cache/googlefont/woff2/s/oswald/v29/TK3iWkUHHAIjg752HT8Gl-1PK62t.woff2") format('woff2');
-        unicode-range: U+0400-045F, U+0490-0491, U+04B0-04B1, U+2116;
-        }
-        @font-face {
-        font-display: block;
-        font-family: 'Oswald';
-        font-style: normal;
-        font-weight: 700;
-        src: url("//static.parastorage.com/tag-bundler/api/v1/fonts-cache/googlefont/woff2/s/oswald/v29/TK3iWkUHHAIjg752Fj8Gl-1PK62t.woff2") format('woff2');
-        unicode-range: U+0102-0103, U+0110-0111, U+1EA0-1EF9, U+20AB;
-        }
-        @font-face {
-        font-display: block;
-        font-family: 'Oswald';
-        font-style: normal;
-        font-weight: 700;
-        src: url("//static.parastorage.com/tag-bundler/api/v1/fonts-cache/googlefont/woff2/s/oswald/v29/TK3iWkUHHAIjg752Fz8Gl-1PK62t.woff2") format('woff2');
-        unicode-range: U+0100-024F, U+0259, U+1E00-1EFF, U+2020, U+20A0-20AB, U+20AD-20CF, U+2113, U+2C60-2C7F, U+A720-A7FF;
-        }
-        @font-face {
-        font-display: block;
-        font-family: 'Oswald';
-        font-style: normal;
-        font-weight: 700;
-        src: url("//static.parastorage.com/tag-bundler/api/v1/fonts-cache/googlefont/woff2/s/oswald/v29/TK3iWkUHHAIjg752GT8Gl-1PKw.woff2") format('woff2');
-        unicode-range: U+0000-00FF, U+0131, U+0152-0153, U+02BB-02BC, U+02C6, U+02DA, U+02DC, U+2000-206F, U+2074, U+20AC, U+2122, U+2191, U+2193, U+2212, U+2215, U+FEFF, U+FFFD;
-        }
-        @font-face {
-        font-display: block;
-        font-family: "Oswald-Medium";
-        src: url("//static.parastorage.com/tag-bundler/api/v1/fonts-cache/googlefont/woff2/s/oswald/v16/cgaIrkaP9Empe8_PwXbajFtXRa8TVwTICgirnJhmVJw.woff2") format("woff2"),
-        url("//static.parastorage.com/tag-bundler/api/v1/fonts-cache/googlefont/woff/s/oswald/v16/cgaIrkaP9Empe8_PwXbajD8E0i7KZn-EPnyo3HZu7kw.woff") format("woff")
+        src: url("/london_ruby/assets/fonts/RqRF4AQrkUh3ft98NHH2mA.woff2") format("woff2"),
+        url("/london_ruby/assets/fonts/PyqsDANUgLi2UsdO-d4iZQ.woff") format("woff")
         }
         @font-face {
         font-display: block;
         font-family: "Oswald-Medium";
         font-weight: 700;
-        src: url("//static.parastorage.com/tag-bundler/api/v1/fonts-cache/googlefont/woff2/s/oswald/v16/dI-qzxlKVQA6TUC5RKSb31tXRa8TVwTICgirnJhmVJw.woff2") format("woff2"),
-        url("//static.parastorage.com/tag-bundler/api/v1/fonts-cache/googlefont/woff/s/oswald/v16/dI-qzxlKVQA6TUC5RKSb3z8E0i7KZn-EPnyo3HZu7kw.woff") format("woff")
+        src: url("/london_ruby/assets/fonts/dI-qzxlKVQA6TUC5RKSb31tXRa8TVwTICgirnJhmVJw.woff2") format("woff2"),
+        url("/london_ruby/assets/fonts/dI-qzxlKVQA6TUC5RKSb3z8E0i7KZn-EPnyo3HZu7kw.woff") format("woff")
         }
         #comp-k89gvmdf { --contentPaddingLeft:0px;--contentPaddingRight:0px;--contentPaddingTop:0px;--contentPaddingBottom:0px;--height:135px;--width:153px }#comp-j7046uu3 { --lnw:1px;--brd:var(--color_13);--alpha-brd:1;transform-origin:center 0.5px }#comp-j7046uv8 { height:auto }#comp-j7046uv9 { height:auto }#comp-j7046uuy { height:auto }#comp-j7046uu5 { --lnw:1px;--brd:var(--color_13);--alpha-brd:1;transform-origin:center 0.5px }#comp-j7046uuz { height:auto }#comp-k89h9d4i { --rd:5px;--bg:254,67,67;--brd:182,243,232;--brw:0px;--trans:all 0.12s ease 0s;--fnt:normal normal 700 19px/1.4em oswald-medium,oswald,sans-serif;--txt:var(--color_11);--alpha-txt:1;--bgh:220,36,31;--brdh:61,155,233;--txth:0,0,0;--alpha-txth:1;--bgd:204,204,204;--brdd:204,204,204;--txtd:255,255,255;--alpha-txtd:1;--shc:var(--color_17);--alpha-shc:1;--alpha-brdh:1;--alpha-brd:1;--alpha-bgd:1;--alpha-bg:1;--alpha-bgh:1;--alpha-brdd:1;--shc-mutated-brightness:72,62,120;--label-align:center;--label-text-align:center }#comp-j7046uue { height:auto }#comp-j7046uu7 { --lnw:1px;--brd:var(--color_13);--alpha-brd:1;transform-origin:center 0.5px }#comp-j7046uug { height:auto }#comp-j6kmlntp { height:auto }#comp-k89h5g0c { --contentPaddingLeft:0px;--contentPaddingRight:0px;--contentPaddingTop:0px;--contentPaddingBottom:0px;--height:160px;--width:176px }#comp-k88pxbg7 { --opacity:1 }#comp-j7046uv6 { --opacity:1 }#comp-j7046utt { height:auto }#comp-j7046utr { height:auto }#comp-j7046uto { --rd:5px;--bg:254,67,67;--brd:182,243,232;--brw:0px;--trans:all 0.12s ease 0s;--fnt:normal normal 700 23px/1.4em oswald-medium,oswald,sans-serif;--txt:var(--color_11);--alpha-txt:1;--bgh:220,36,31;--brdh:61,155,233;--txth:0,0,0;--alpha-txth:1;--bgd:204,204,204;--brdd:204,204,204;--txtd:255,255,255;--alpha-txtd:1;--shc:var(--color_17);--alpha-shc:1;--alpha-brdh:1;--alpha-brd:1;--alpha-bgd:1;--alpha-bg:1;--alpha-bgh:1;--alpha-brdd:1;--shc-mutated-brightness:72,62,120;--label-align:center;--label-text-align:center }#comp-k89h0wnu { --contentPaddingLeft:0px;--contentPaddingRight:0px;--contentPaddingTop:0px;--contentPaddingBottom:0px;--height:599px;--width:970px }#comp-j74saktl { height:auto }#comp-j6i7ufkl { height:auto }#comp-k8aaoncz { --contentPaddingLeft:0px;--contentPaddingRight:0px;--contentPaddingTop:0px;--contentPaddingBottom:0px;--height:73px;--width:210px }#comp-k8ac228c { --fade_next:opacity 0.1s ease 0s;--fade_prev:opacity 0.5s ease 0s }#comp-j709y5yq { --stroke-width:0;--fill-opacity:1;--stroke:#ED1566;--stroke-opacity:1;--fill:#FF4040 }#xkzux { width:auto;min-height:40px }#comp-lfjq6la9 { --bg-overlay-color:transparent;--bg-gradient:none;min-width:980px }#comp-lfjq6laa { --bg-overlay-color:transparent;--bg-gradient:none;min-width:980px }#comp-lfjq6lah { --bg-overlay-color:transparent;--bg-gradient:none;min-width:980px }#comp-j7046usa { --bg-overlay-color:transparent;--bg-gradient:none;--padding:0px;--margin:0px;min-width:980px;--firstChildMarginTop:-1px;--lastChildMarginBottom:-1px }#comp-j7046uv41 { --bg:17,62,206;--rd:5px;--shd:1.00px -0.02px 4px 0px rgba(0,0,0,0.6);--brw:1px;--brd:50,65,88;--alpha-bg:1;--alpha-brd:1;--shc-mutated-brightness:9,31,103 }#comp-k89hfq71 { --bg:17,62,206;--rd:5px;--shd:1.00px -0.02px 4px 0px rgba(0,0,0,0.6);--brw:1px;--brd:50,65,88;--alpha-bg:1;--alpha-brd:1;--shc-mutated-brightness:9,31,103 }#comp-k89hgasp { --bg:17,62,206;--rd:5px;--shd:1.00px -0.02px 4px 0px rgba(0,0,0,0.6);--brw:1px;--brd:50,65,88;--alpha-bg:1;--alpha-brd:1;--shc-mutated-brightness:9,31,103 }#comp-j6i1zm2b { --bg-overlay-color:transparent;--bg-gradient:none;--padding:0px;--margin:0px;min-width:980px;--firstChildMarginTop:-1px;--lastChildMarginBottom:-1px }#comp-j7046usu { --bg-overlay-color:rgb(var(--color_18));--bg-gradient:none;--fill-layer-image-opacity:1;width:100%;--column-width:980px;--column-flex:980 }#comp-j6i1zm3q { --bg-overlay-color:rgb(17, 62, 206);--bg-gradient:none;--fill-layer-image-opacity:1;width:100%;--column-width:980px;--column-flex:980 }#pageBackground_xkzux { --bg-position:absolute;--bg-overlay-color:rgb(var(--color_11));--bg-gradient:none;--fill-layer-background-overlay-color:transparent;--fill-layer-background-overlay-position:absolute }
       </style>
@@ -344,10 +214,10 @@ layout: null
                                           <div id="comp-j7046utr" class="BaOVQ8 tz5f0K comp-j7046utr wixui-rich-text" data-testid="richTextElement">
                                             <p class="font_7" style="font-size:19px; line-height:1.5em; text-align:center;"><span style="font-family:futura-lt-w01-book,sans-serif;"><span style="font-size:19px;"><span class="color_11">Connect&nbsp;instantly on Slack with ruby developers, software development managers, engineering managers, CEOs, CTOs, entrepreneurs and other technical leaders that form the London Ruby Community!</span></span></span></p>
                                           </div>
-                                          <div class="comp-j7046uto nVwSwA" id="comp-j7046uto" aria-disabled="false"><a data-testid="linkElement" href="https://www.londonruby.uk/register" target="_self" class="mMpTZk wixui-button zKbzSQ" aria-disabled="false"><span class="z2aIDi wixui-button__label">GET INVOLVED</span></a></div>
+                                          <div class="comp-j7046uto nVwSwA" id="comp-j7046uto" aria-disabled="false"><a data-testid="linkElement" href="/london_ruby/register" target="_self" class="mMpTZk wixui-button zKbzSQ" aria-disabled="false"><span class="z2aIDi wixui-button__label">GET INVOLVED</span></a></div>
                                           <div id="comp-k89h0wnu" class="MazNVa comp-k89h0wnu wixui-image">
                                             <div data-testid="linkElement" class="j7pOnl">
-                                              <wow-image id="img_comp-k89h0wnu" class="HlRz5e BI8PVQ" data-image-info="{&quot;containerId&quot;:&quot;comp-k89h0wnu&quot;,&quot;displayMode&quot;:&quot;fill&quot;,&quot;targetWidth&quot;:970,&quot;targetHeight&quot;:599,&quot;isLQIP&quot;:false,&quot;imageData&quot;:{&quot;width&quot;:2088,&quot;height&quot;:1296,&quot;uri&quot;:&quot;d659b4_8a1155595819463d8a303f0ca896a210~mv2.png&quot;,&quot;name&quot;:&quot;board@2x (1).png&quot;,&quot;displayMode&quot;:&quot;fill&quot;}}" data-bg-effect-name="" data-has-ssr-src=""><img src="https://static.wixstatic.com/media/d659b4_8a1155595819463d8a303f0ca896a210~mv2.png/v1/fill/w_970,h_599,al_c,q_90,usm_0.66_1.00_0.01,enc_auto/board%402x%20(1).png" alt="board@2x (1).png" style="width:970px;height:599px;object-fit:cover" srcSet="https://static.wixstatic.com/media/d659b4_8a1155595819463d8a303f0ca896a210~mv2.png/v1/fill/w_970,h_599,al_c,q_90,usm_0.66_1.00_0.01,enc_auto/board%402x%20(1).png 1x, https://static.wixstatic.com/media/d659b4_8a1155595819463d8a303f0ca896a210~mv2.png/v1/fill/w_1940,h_1198,al_c,q_95,usm_0.66_1.00_0.01,enc_auto/board%402x%20(1).png 2x" fetchpriority="high"/></wow-image>
+                                              <wow-image id="img_comp-k89h0wnu" class="HlRz5e BI8PVQ" data-image-info="{&quot;containerId&quot;:&quot;comp-k89h0wnu&quot;,&quot;displayMode&quot;:&quot;fill&quot;,&quot;targetWidth&quot;:970,&quot;targetHeight&quot;:599,&quot;isLQIP&quot;:false,&quot;imageData&quot;:{&quot;width&quot;:2088,&quot;height&quot;:1296,&quot;uri&quot;:&quot;d659b4_8a1155595819463d8a303f0ca896a210~mv2.png&quot;,&quot;name&quot;:&quot;board@2x (1).png&quot;,&quot;displayMode&quot;:&quot;fill&quot;}}" data-bg-effect-name="" data-has-ssr-src=""><img src="/london_ruby/assets/images/board@2x (1).webp" alt="board@2x (1).png" style="width:970px;height:599px;object-fit:cover" fetchpriority="high"/></wow-image>
                                             </div>
                                           </div>
                                         </div>
@@ -357,7 +227,7 @@ layout: null
                                 </section>
                                 <div id="comp-k89gvmdf" class="MazNVa comp-k89gvmdf wixui-image">
                                   <div data-testid="linkElement" class="j7pOnl">
-                                    <wow-image id="img_comp-k89gvmdf" class="HlRz5e BI8PVQ" data-image-info="{&quot;containerId&quot;:&quot;comp-k89gvmdf&quot;,&quot;displayMode&quot;:&quot;fill&quot;,&quot;targetWidth&quot;:153,&quot;targetHeight&quot;:135,&quot;isLQIP&quot;:false,&quot;imageData&quot;:{&quot;width&quot;:413,&quot;height&quot;:377,&quot;uri&quot;:&quot;d659b4_b492d07786ad4678a895cc27758f0e09~mv2.png&quot;,&quot;name&quot;:&quot;logo color copia@2x.png&quot;,&quot;displayMode&quot;:&quot;fill&quot;}}" data-bg-effect-name="" data-has-ssr-src=""><img src="https://static.wixstatic.com/media/d659b4_b492d07786ad4678a895cc27758f0e09~mv2.png/v1/fill/w_153,h_135,al_c,q_85,usm_0.66_1.00_0.01,enc_auto/logo%20color%20copia%402x.png" alt="logo color copia@2x.png" style="width:153px;height:135px;object-fit:cover" srcSet="https://static.wixstatic.com/media/d659b4_b492d07786ad4678a895cc27758f0e09~mv2.png/v1/fill/w_153,h_135,al_c,q_85,usm_0.66_1.00_0.01,enc_auto/logo%20color%20copia%402x.png 1x, https://static.wixstatic.com/media/d659b4_b492d07786ad4678a895cc27758f0e09~mv2.png/v1/fill/w_306,h_270,al_c,q_85,usm_0.66_1.00_0.01,enc_auto/logo%20color%20copia%402x.png 2x" fetchpriority="high"/></wow-image>
+                                    <wow-image id="img_comp-k89gvmdf" class="HlRz5e BI8PVQ" data-image-info="{&quot;containerId&quot;:&quot;comp-k89gvmdf&quot;,&quot;displayMode&quot;:&quot;fill&quot;,&quot;targetWidth&quot;:153,&quot;targetHeight&quot;:135,&quot;isLQIP&quot;:false,&quot;imageData&quot;:{&quot;width&quot;:413,&quot;height&quot;:377,&quot;uri&quot;:&quot;d659b4_b492d07786ad4678a895cc27758f0e09~mv2.png&quot;,&quot;name&quot;:&quot;logo color copia@2x.png&quot;,&quot;displayMode&quot;:&quot;fill&quot;}}" data-bg-effect-name="" data-has-ssr-src=""><img src="/london_ruby/assets/images/logo%20color%20copia%402x.webp" alt="logo color copia@2x.png" style="width:153px;height:135px;object-fit:cover" fetchpriority="high"/></wow-image>
                                   </div>
                                 </div>
                               </div>
