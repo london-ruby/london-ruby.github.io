@@ -24,13 +24,13 @@ layout: null
     <style>.TWFxr5{height:auto!important}</style>
     <title>London Ruby | Slack Group </title>
     <meta name="description" content="Connect instantly on Slack with the London Ruby Community!"/>
-    <link rel="canonical" href="https://london-ruby.github.io"/>
+    <link rel="canonical" href="https://londonruby.uk"/>
     <meta property="og:title" content="London Ruby | Slack Group "/>
     <meta property="og:description" content="Connect instantly on Slack with the London Ruby Community!"/>
     <meta property="og:image" content="/assets/images/d659b4_64f296978e0747e6ba40dde0597bfec4~mv2.png"/>
     <meta property="og:image:width" content="600"/>
     <meta property="og:image:height" content="315"/>
-    <meta property="og:url" content="https://london-ruby.github.io"/>
+    <meta property="og:url" content="https://londonruby.uk"/>
     <meta property="og:site_name" content="London Ruby"/>
     <meta property="og:type" content="website"/>
     <meta name="google-site-verification" content="Tz_S8cJHIeB2i9BwuNjX6t5tE8gVpjhvJSx51zANrz8"/>

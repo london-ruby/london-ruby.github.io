@@ -29,10 +29,10 @@ layout: null
     <style>.TWFxr5{height:auto!important}</style>
     <title>Register | London Ruby</title>
     <meta name="description" content="Fill in this form and we’ll send you an invite "/>
-    <link rel="canonical" href="https://london-ruby.github.io/register"/>
+    <link rel="canonical" href="https://londonruby.uk/register"/>
     <meta property="og:title" content="Register | London Ruby"/>
     <meta property="og:description" content="Fill in this form and we’ll send you an invite "/>
-    <meta property="og:url" content="https://london-ruby.github.io/register"/>
+    <meta property="og:url" content="https://londonruby.uk/register"/>
     <meta property="og:site_name" content="London Ruby"/>
     <meta property="og:type" content="website"/>
     <meta name="google-site-verification" content="Tz_S8cJHIeB2i9BwuNjX6t5tE8gVpjhvJSx51zANrz8"/>
